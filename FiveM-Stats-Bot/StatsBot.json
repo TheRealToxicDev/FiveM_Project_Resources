@@ -1,0 +1,12 @@
+{
+    "name": "FiveM-Stats-Bot",
+    "CurrentVersion": "1.0.0",
+    "NewestVersion": "1.0.0",
+    "ChangeLog": {
+        "1": "Create the base Bot Structure",
+        "2": "Create the base Commands Structure",
+        "3": "Create the base Events Structure",
+        "4": "Create the Base Dashboard",
+        "5": "Create and Implement a Custom API"
+    }
+}
