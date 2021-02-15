@@ -2,7 +2,7 @@
     "name": "FiveM-Stats-Bot",
     "CurrentVersion": "1.0.0",
     "NewestVersion": "1.0.0",
-    "TestVersion": "1.0.1"
+    "TestVersion": "1.0.1",
     "ChangeLog": {
         "1": "Create the base Bot Structure",
         "2": "Create the base Commands Structure",
